@@ -117,21 +117,12 @@
 
   <br/><br/>
 
-  <!-- Stats & Language Cards (Tested 200 OK Endpoints) -->
-  <table border="0" width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siddhartha836&theme=tokyonight" width="100%" alt="GitHub Profile Summary" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Siddhartha836&theme=tokyonight" width="100%" alt="Languages Breakdown" />
-      </td>
-    </tr>
-  </table>
+  <!-- Bulletproof Local Vector Stats & Languages Card -->
+  <img src="assets/stats-card.svg" width="100%" alt="GitHub Stats & Top Languages Breakdown" />
 
-  <br/>
+  <br/><br/>
 
-  <!-- Streak Stats (Tested 200 OK Demolab Endpoint) -->
+  <!-- Streak Stats (Demolab Endpoint) -->
   <img src="https://streak-stats.demolab.com/?user=Siddhartha836&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak Stats" />
 
 </div>
@@ -152,11 +143,6 @@
 
   <!-- Custom Vector Rank Badges Bar -->
   <img src="assets/rank-badges.svg" width="100%" alt="Rank Achievements" />
-
-  <br/><br/>
-
-  <!-- Real-Time GitHub Stats Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Siddhartha836&theme=tokyonight" width="100%" alt="Real-Time GitHub Stats Card" />
 
   <br/><br/>
 
