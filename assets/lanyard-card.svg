@@ -40,12 +40,12 @@
   <!-- Badge Card Container -->
   <g transform="translate(10, 95)">
     <!-- Outer Card Glow Border -->
-    <rect x="0" y="0" width="320" height="415" rx="20" fill="url(#pinkGlow)" opacity="0.8" />
+    <rect x="0" y="0" width="320" height="415" rx="20" fill="url(#pinkGlow)" opacity="0.85" />
     <!-- Inner Card Body -->
     <rect x="2" y="2" width="316" height="411" rx="18" fill="url(#cardBg)" />
 
     <!-- Top Card Header Accent -->
-    <path d="M 2 20 Q 2 2, 20 2 L 300 2 Q 318 2, 318 20 L 318 45 L 2 45 Z" fill="url(#pinkGlow)" opacity="0.3" />
+    <path d="M 2 20 Q 2 2, 20 2 L 300 2 Q 318 2, 318 20 L 318 45 L 2 45 Z" fill="url(#pinkGlow)" opacity="0.35" />
     
     <!-- Lanyard Hole Slot -->
     <rect x="135" y="12" width="50" height="10" rx="5" fill="#090514" stroke="#ff2a85" stroke-width="1.5" />
