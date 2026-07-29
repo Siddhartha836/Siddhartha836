@@ -22,7 +22,7 @@
 <table>
   <tr>
     <td width="38%" align="center" valign="top">
-      <!-- Lanyard ID Card Asset -->
+      <!-- Lanyard ID Card Asset with Photo -->
       <img src="assets/lanyard-card.svg" width="100%" alt="Developer Lanyard ID Card" />
     </td>
     <td width="62%" valign="top">
@@ -149,7 +149,32 @@
 ### 🏆 Achievements & Badges
 
 <div align="center">
+
+  <!-- Custom Vector Rank Badges Bar -->
   <img src="assets/rank-badges.svg" width="100%" alt="Rank Achievements" />
+
+  <br/><br/>
+
+  <!-- Real-Time GitHub Stats Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Siddhartha836&theme=tokyonight" width="100%" alt="Real-Time GitHub Stats Card" />
+
+  <br/><br/>
+
+  <!-- Official GitHub Achievement Badges -->
+  <p>
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="60" height="60" alt="Pull Shark" title="Pull Shark" />
+    &nbsp;
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="60" height="60" alt="Quickdraw" title="Quickdraw" />
+    &nbsp;
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="60" height="60" alt="Pair Extraordinaire" title="Pair Extraordinaire" />
+    &nbsp;
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="60" height="60" alt="YOLO" title="YOLO" />
+    &nbsp;
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="60" height="60" alt="Starstruck" title="Starstruck" />
+    &nbsp;
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="60" height="60" alt="Arctic Code Vault Contributor" title="Arctic Code Vault Contributor" />
+  </p>
+
 </div>
 
 ---

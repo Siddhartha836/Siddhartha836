@@ -1,5 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="90" viewBox="0 0 800 90" fill="none">
   <defs>
+    <!-- Background Gradient -->
     <linearGradient id="badgeBg" x1="0" y1="0" x2="0" y2="90">
       <stop offset="0%" stop-color="#140b2a" />
       <stop offset="100%" stop-color="#0a0518" />
@@ -25,6 +26,11 @@
       <stop offset="0%" stop-color="#2ec4b6" />
       <stop offset="100%" stop-color="#10b981" />
     </linearGradient>
+
+    <filter id="glowIcon" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
   </defs>
 
   <!-- Container -->
@@ -33,9 +39,10 @@
   <!-- Badge 1: Globe Trotter (SSS) -->
   <g transform="translate(15, 12)">
     <rect x="0" y="0" width="118" height="66" rx="10" fill="#1b0f38" stroke="url(#sssGrad)" stroke-width="1.2" />
-    <!-- Icon -->
-    <circle cx="20" cy="22" r="10" fill="#2d124d" />
-    <text x="20" y="26" font-family="sans-serif" font-size="12" text-anchor="middle">🔮</text>
+    <!-- Vector Globe Icon -->
+    <circle cx="22" cy="22" r="12" fill="#2d124d" />
+    <path d="M 22 10 A 12 12 0 1 0 22 34 A 12 12 0 1 0 22 10 Z M 11 22 L 33 22 M 22 10 A 6 12 0 0 1 22 34 A 6 12 0 0 1 22 10 Z" stroke="#f72585" stroke-width="1.5" fill="none" filter="url(#glowIcon)" />
+    
     <!-- Rank Pill -->
     <rect x="75" y="10" width="34" height="18" rx="9" fill="url(#sssGrad)" />
     <text x="92" y="23" font-family="'Segoe UI', sans-serif" font-weight="900" font-size="10" fill="#ffffff" text-anchor="middle">SSS</text>
@@ -47,8 +54,10 @@
   <!-- Badge 2: Dominator (S) -->
   <g transform="translate(145, 12)">
     <rect x="0" y="0" width="118" height="66" rx="10" fill="#1b0f38" stroke="url(#sGrad)" stroke-width="1.2" />
-    <circle cx="20" cy="22" r="10" fill="#3a2500" />
-    <text x="20" y="26" font-family="sans-serif" font-size="12" text-anchor="middle">⚡</text>
+    <!-- Vector Lightning Bolt Icon -->
+    <circle cx="22" cy="22" r="12" fill="#3a2500" />
+    <path d="M 24 12 L 15 23 L 22 23 L 20 32 L 29 21 L 22 21 Z" fill="#ffb703" stroke="#fb8500" stroke-width="0.8" filter="url(#glowIcon)" />
+    
     <rect x="80" y="10" width="28" height="18" rx="9" fill="url(#sGrad)" />
     <text x="94" y="23" font-family="'Segoe UI', sans-serif" font-weight="900" font-size="11" fill="#000000" text-anchor="middle">S</text>
     <text x="59" y="46" font-family="'Segoe UI', sans-serif" font-weight="700" font-size="11" fill="#ffffff" text-anchor="middle">Dominator</text>
@@ -58,8 +67,10 @@
   <!-- Badge 3: Stargazer (A) -->
   <g transform="translate(275, 12)">
     <rect x="0" y="0" width="118" height="66" rx="10" fill="#1b0f38" stroke="url(#aGrad)" stroke-width="1.2" />
-    <circle cx="20" cy="22" r="10" fill="#0f2b45" />
-    <text x="20" y="26" font-family="sans-serif" font-size="12" text-anchor="middle">🌟</text>
+    <!-- Vector 5-Point Star Icon -->
+    <circle cx="22" cy="22" r="12" fill="#0f2b45" />
+    <polygon points="22,12 25,18 32,19 27,24 28,31 22,27 16,31 17,24 12,19 19,18" fill="#4cc9f0" filter="url(#glowIcon)" />
+    
     <rect x="80" y="10" width="28" height="18" rx="9" fill="url(#aGrad)" />
     <text x="94" y="23" font-family="'Segoe UI', sans-serif" font-weight="900" font-size="11" fill="#ffffff" text-anchor="middle">A</text>
     <text x="59" y="46" font-family="'Segoe UI', sans-serif" font-weight="700" font-size="11" fill="#ffffff" text-anchor="middle">Stargazer</text>
@@ -69,8 +80,10 @@
   <!-- Badge 4: Rising Star (A) -->
   <g transform="translate(405, 12)">
     <rect x="0" y="0" width="118" height="66" rx="10" fill="#1b0f38" stroke="url(#sssGrad)" stroke-width="1.2" />
-    <circle cx="20" cy="22" r="10" fill="#380d2d" />
-    <text x="20" y="26" font-family="sans-serif" font-size="12" text-anchor="middle">💖</text>
+    <!-- Vector Heart Icon -->
+    <circle cx="22" cy="22" r="12" fill="#380d2d" />
+    <path d="M 22 30 C 14 24 12 18 16 14 C 19 11 22 14 22 16 C 22 14 25 11 28 14 C 32 18 30 24 22 30 Z" fill="#f72585" filter="url(#glowIcon)" />
+    
     <rect x="80" y="10" width="28" height="18" rx="9" fill="url(#sssGrad)" />
     <text x="94" y="23" font-family="'Segoe UI', sans-serif" font-weight="900" font-size="11" fill="#ffffff" text-anchor="middle">A</text>
     <text x="59" y="46" font-family="'Segoe UI', sans-serif" font-weight="700" font-size="11" fill="#ffffff" text-anchor="middle">Rising Star</text>
@@ -80,8 +93,11 @@
   <!-- Badge 5: Good Samaritan (A) -->
   <g transform="translate(535, 12)">
     <rect x="0" y="0" width="118" height="66" rx="10" fill="#1b0f38" stroke="url(#aGrad)" stroke-width="1.2" />
-    <circle cx="20" cy="22" r="10" fill="#0f2b45" />
-    <text x="20" y="26" font-family="sans-serif" font-size="12" text-anchor="middle">🤝</text>
+    <!-- Vector Handshake / Shield Icon -->
+    <circle cx="22" cy="22" r="12" fill="#0f2b45" />
+    <path d="M 22 12 L 30 16 L 30 23 C 30 28 22 32 22 32 C 22 32 14 28 14 23 L 14 16 Z" fill="#4361ee" filter="url(#glowIcon)" />
+    <path d="M 19 22 L 21 24 L 25 19" stroke="#ffffff" stroke-width="1.5" fill="none" />
+    
     <rect x="80" y="10" width="28" height="18" rx="9" fill="url(#aGrad)" />
     <text x="94" y="23" font-family="'Segoe UI', sans-serif" font-weight="900" font-size="11" fill="#ffffff" text-anchor="middle">A</text>
     <text x="59" y="46" font-family="'Segoe UI', sans-serif" font-weight="700" font-size="11" fill="#ffffff" text-anchor="middle">Good Samaritan</text>
@@ -91,8 +107,15 @@
   <!-- Badge 6: Greeter (B) -->
   <g transform="translate(665, 12)">
     <rect x="0" y="0" width="118" height="66" rx="10" fill="#1b0f38" stroke="url(#bGrad)" stroke-width="1.2" />
-    <circle cx="20" cy="22" r="10" fill="#0c3527" />
-    <text x="20" y="26" font-family="sans-serif" font-size="12" text-anchor="middle">🎲</text>
+    <!-- Vector Dice Icon -->
+    <circle cx="22" cy="22" r="12" fill="#0c3527" />
+    <rect x="14" y="14" width="16" height="16" rx="3" fill="#10b981" filter="url(#glowIcon)" />
+    <circle cx="17" cy="17" r="1.5" fill="#ffffff" />
+    <circle cx="27" cy="27" r="1.5" fill="#ffffff" />
+    <circle cx="22" cy="22" r="1.5" fill="#ffffff" />
+    <circle cx="27" cy="17" r="1.5" fill="#ffffff" />
+    <circle cx="17" cy="27" r="1.5" fill="#ffffff" />
+    
     <rect x="80" y="10" width="28" height="18" rx="9" fill="url(#bGrad)" />
     <text x="94" y="23" font-family="'Segoe UI', sans-serif" font-weight="900" font-size="11" fill="#ffffff" text-anchor="middle">B</text>
     <text x="59" y="46" font-family="'Segoe UI', sans-serif" font-weight="700" font-size="11" fill="#ffffff" text-anchor="middle">Greeter</text>
