@@ -1,27 +1,184 @@
-# 💫 About Me:
-I'm currently working on: enhancing my skills in full-stack development by building responsive and feature-rich web applications.<br><br>I'm looking to collaborate on: innovative web or mobile-based projects, especially those involving MERN stack, REST APIs, or real-world problem-solving in tech.<br><br>I'm looking for help with: exploring advanced backend techniques, API integrations, and deploying full-stack apps efficiently.<br><br>I'm currently learning: modern JavaScript frameworks, cloud deployment strategies, and best practices in UI/UX design.<br><br>Ask me about: full-stack development, JavaScript, HTML/CSS, React, Node.js, or anything related to building scalable web apps.<br><br>Fun fact: My name is Siddhartha, and I'm a B.Tech CSE student at Lovely Professional University, specializing in full-stack development. I enjoy turning ideas into reality through code!
+<div align="center">
 
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0,2,3,5,6&height=220&section=header&text=Hi%20there,%20I'm%20Siddhartha%20Panigrahi%20👋&fontSize=36&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Web%20Developer%20%7C%20MERN%20Stack%20Specialist%20%7C%20CSE%20Undergrad&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/MDxQQq4k) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Siddhartha Panigrahi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_siddhartha_shankar_20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Siddhartha panigrahi) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Siddharthapanigrahi) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Siddhartha) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ff_sonu_god) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siddharthapanigrahi321@gmail.com) 
+  <!-- Animated Typing SVG -->
+  <a href="https://github.com/Siddhartha836">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F72585&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Full-Stack+Web+Developer;MERN+Stack+Specialist;Problem+Solver+%26+Open-Source+Contributor;B.Tech+CSE+%40+Lovely+Professional+University" alt="Typing SVG" />
+  </a>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=plastic&logo=Apache%20Airflow&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=plastic&logo=openapiinitiative&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=plastic&logo=Apache%20Airflow&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Siddhartha836&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Siddhartha836&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhartha836&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <!-- Profile Quick Badges -->
+  <p>
+    <a href="https://linkedin.com/in/Siddhartha panigrahi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:siddharthapanigrahi321@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://discord.gg/MDxQQq4k"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+    <a href="https://youtube.com/@ff_sonu_god"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+    <a href="https://instagram.com/_siddhartha_shankar_20"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Siddhartha836&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Siddhartha836&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Siddhartha836&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💻 `siddhartha@developer:~` cat about-me.md
+
+```bash
+> Initializing Siddhartha's Profile...
+> Status: 🚀 Building scalable web applications & mastering modern full-stack architectures.
+```
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>⚡ About Me</h3>
+      <ul>
+        <li>🎓 <b>Education:</b> B.Tech Computer Science & Engineering at <b>Lovely Professional University (LPU)</b>.</li>
+        <li>💻 <b>Focus:</b> Full-Stack Development with <b>MERN Stack</b> (MongoDB, Express, React, Node.js).</li>
+        <li>🌱 <b>Currently Learning:</b> Next.js, Cloud Architectures, System Design & Performance Optimization.</li>
+        <li>🤝 <b>Open for Collaboration:</b> Innovative web apps, REST APIs, or real-world tech solutions.</li>
+        <li>💬 <b>Ask Me About:</b> JavaScript, React, Node.js, Express, Python, Data Structures & Web Design.</li>
+        <li>🎯 <b>Goal:</b> Crafting sleek, high-performance web applications that deliver exceptional UI/UX.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUGGAC3P4PPPPmgq/giphy.gif" width="100%" alt="Coding Gif" style="border-radius:12px;" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Repository |
+| :--- | :--- | :--- | :---: |
+| 📝 **Blogging with MERN** | Full-featured blogging platform with authentication, posts, comments & interactive reactions | `MongoDB` `Express` `React` `Node.js` | [🔗 View Repo](https://github.com/Siddhartha836/Blogging-with-MERN) |
+| 📊 **Excel Analytics Platform** | Interactive data analytics web app transforming raw Excel files into dynamic visual charts | `JavaScript` `HTML5` `CSS3` `Chart.js` | [🔗 View Repo](https://github.com/Siddhartha836/Excel-Analytics-Platform) |
+| 🌾 **AI Pest Management** | Intelligent agricultural pest identification & crop protection management system | `Python` `AI/ML` `HTML` `CSS` | [🔗 View Repo](https://github.com/Siddhartha836/Ai-Pest-Identification-Management) |
+| 🛒 **Foodie Mart** | Sleek online food ordering & restaurant web application with interactive UI | `JavaScript` `HTML5` `CSS3` | [🔗 View Repo](https://github.com/Siddhartha836/Foodie_Mart) |
+| 🩺 **Doctor App** | Modern healthcare booking & doctor appointment management application | `JavaScript` `Node.js` `Express` | [🔗 View Repo](https://github.com/Siddhartha836/doctor-app) |
+| 💾 **FileSystem Recovery** | Python system utility for automated data recovery and file backup optimization | `Python` `OS Algorithms` | [🔗 View Repo](https://github.com/Siddhartha836/FileSystem-Recovery-Optimization) |
+
+---
+
+### 🛠️ Tech Stack & Digital Arsenal
+
+<div align="center">
+
+  #### 🌐 Languages & Frontend
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,tailwind,bootstrap,jquery,vite&perline=12" alt="Frontend Stack" />
+    </a>
+  </p>
+
+  #### ⚙️ Backend, Databases & Cloud
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,py,java,cpp,c,mongodb,mysql,postgres,sqlite,firebase,azure&perline=12" alt="Backend Stack" />
+    </a>
+  </p>
+
+  #### 🔧 Tools & DevOps
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma,powershell&perline=8" alt="Tools" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+### 📈 GitHub Contribution Curve & Analytics
+
+<div align="center">
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddhartha836&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+
+  <br/><br/>
+
+  <!-- Stats & Top Languages Side-by-Side -->
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Siddhartha836&show_icons=true&theme=tokyonight&rank_icon=percentile&hide_border=true" width="100%" alt="GitHub Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhartha836&theme=tokyonight&layout=compact&hide_border=true" width="100%" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <!-- Streak Stats -->
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Siddhartha836&theme=tokyonight&hide_border=true" width="100%" alt="Streak Stats" />
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <p><i>Watch the snake eat my contribution grid! 🐍</i></p>
+  <img src="https://raw.githubusercontent.com/Siddhartha836/Siddhartha836/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+</div>
+
+---
+
+### 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Siddhartha836&theme=tokyonight&no-frame=true&no-bg=true&column=6" width="100%" alt="Trophies" />
+</div>
+
+---
+
+### ✍️ Daily Developer Motivation
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Dev Quote" />
+</div>
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+
+  <a href="https://linkedin.com/in/Siddhartha panigrahi">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:siddharthapanigrahi321@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/MDxQQq4k">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@ff_sonu_god">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/_siddhartha_shankar_20">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/Siddhartha Panigrahi">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://pinterest.com/Siddharthapanigrahi">
+    <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Profile Visitor Counter -->
+  <img src="https://komarev.com/ghpvc/?username=Siddhartha836&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Counter" />
+
+  <br/><br/>
+
+  <sub><i>Designed with ❤️ for Siddhartha Panigrahi's GitHub Profile</i></sub>
+
+</div>
