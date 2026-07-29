@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300" fill="none">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="termBg" x1="0" y1="0" x2="800" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0f0c20" />
+      <stop offset="50%" stop-color="#140b2e" />
+      <stop offset="100%" stop-color="#080414" />
+    </linearGradient>
+
+    <!-- Border Neon Gradient -->
+    <linearGradient id="neonBorder" x1="0" y1="0" x2="800" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#f72585" />
+      <stop offset="50%" stop-color="#7209b7" />
+      <stop offset="100%" stop-color="#4cc9f0" />
+    </linearGradient>
+
+    <!-- Text Pink Gradient -->
+    <linearGradient id="textGrad" x1="0" y1="0" x2="500" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ff2a85" />
+      <stop offset="50%" stop-color="#b5179e" />
+      <stop offset="100%" stop-color="#7209b7" />
+    </linearGradient>
+  </defs>
+
+  <!-- Outer Window Glow Border -->
+  <rect x="0" y="0" width="800" height="300" rx="16" fill="url(#neonBorder)" opacity="0.6" />
+  
+  <!-- Window Inner Container -->
+  <rect x="2" y="2" width="796" height="296" rx="14" fill="url(#termBg)" />
+
+  <!-- Top Title Bar -->
+  <path d="M 2 16 Q 2 2, 16 2 L 784 2 Q 798 2, 798 16 L 798 42 L 2 42 Z" fill="#181136" />
+  
+  <!-- Window Control Buttons (Red, Yellow, Green) -->
+  <circle cx="24" cy="22" r="6" fill="#ff5f56" />
+  <circle cx="44" cy="22" r="6" fill="#ffbd2e" />
+  <circle cx="64" cy="22" r="6" fill="#27c93f" />
+
+  <!-- Window Title / Prompt -->
+  <text x="400" y="26" font-family="'Fira Code', monospace" font-size="12" fill="#a0a0c0" text-anchor="middle">siddhartha@fullstack-developer ~ $ cat README.md</text>
+
+  <!-- Code Tag Top Right -->
+  <rect x="680" y="12" width="100" height="20" rx="4" fill="#29184d" stroke="#f72585" stroke-width="0.8" />
+  <text x="730" y="26" font-family="'Fira Code', monospace" font-size="11" font-weight="700" fill="#f72585" text-anchor="middle">&lt;/&gt; KEEP CODING</text>
+
+  <!-- Terminal Content Area -->
+  <!-- Line 1: Command prompt -->
+  <text x="35" y="75" font-family="'Fira Code', monospace" font-size="14" fill="#4cc9f0" font-weight="600">&gt; executing profile.init()...</text>
+
+  <!-- Greeting Title -->
+  <text x="35" y="115" font-family="'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="32" fill="url(#textGrad)" letter-spacing="0.5">Siddhartha Panigrahi ⚡</text>
+
+  <!-- Subtitle Role -->
+  <text x="35" y="145" font-family="'Segoe UI', sans-serif" font-weight="700" font-size="16" fill="#ffffff" opacity="0.9">Full-Stack Web Developer &amp; MERN Specialist</text>
+
+  <!-- Bio Quote -->
+  <text x="35" y="175" font-family="'Segoe UI', sans-serif" font-style="italic" font-size="13" fill="#a0a0c0">"I build responsive, high-performance web apps &amp; turn complex ideas into digital reality."</text>
+
+  <!-- Tech Pills Row -->
+  <g transform="translate(35, 195)">
+    <!-- Pill 1: React -->
+    <rect x="0" y="0" width="75" height="26" rx="13" fill="#231545" stroke="#61dafb" stroke-width="1" />
+    <text x="37" y="17" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="700" fill="#61dafb" text-anchor="middle">React</text>
+
+    <!-- Pill 2: Node.js -->
+    <rect x="85" y="0" width="85" height="26" rx="13" fill="#1d3024" stroke="#6da55f" stroke-width="1" />
+    <text x="127" y="17" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="700" fill="#6da55f" text-anchor="middle">Node.js</text>
+
+    <!-- Pill 3: Express -->
+    <rect x="180" y="0" width="85" height="26" rx="13" fill="#2e2e38" stroke="#ffffff" stroke-width="1" />
+    <text x="222" y="17" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="700" fill="#ffffff" text-anchor="middle">Express</text>
+
+    <!-- Pill 4: MongoDB -->
+    <rect x="275" y="0" width="95" height="26" rx="13" fill="#182e1e" stroke="#47a248" stroke-width="1" />
+    <text x="322" y="17" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="700" fill="#47a248" text-anchor="middle">MongoDB</text>
+
+    <!-- Pill 5: Python -->
+    <rect x="380" y="0" width="80" height="26" rx="13" fill="#192b3c" stroke="#ffdd54" stroke-width="1" />
+    <text x="420" y="17" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="700" fill="#ffdd54" text-anchor="middle">Python</text>
+  </g>
+
+  <!-- Quick Stat Badges Row -->
+  <g transform="translate(35, 240)">
+    <text x="0" y="20" font-family="'Segoe UI', sans-serif" font-size="13" font-weight="600" fill="#4cc9f0">🎓 B.Tech CSE @ LPU</text>
+    <text x="210" y="20" font-family="'Segoe UI', sans-serif" font-size="13" font-weight="600" fill="#f72585">📁 10+ Web Projects</text>
+    <text x="400" y="20" font-family="'Segoe UI', sans-serif" font-size="13" font-weight="600" fill="#7209b7">🌟 Open Source</text>
+  </g>
+
+  <!-- Right Side Illustration Graphic -->
+  <g transform="translate(560, 50)">
+    <!-- Decorative Floating Spheres & Code Circles -->
+    <circle cx="100" cy="100" r="80" fill="url(#textGrad)" opacity="0.15" />
+    <circle cx="100" cy="100" r="60" stroke="#f72585" stroke-width="1.5" stroke-dasharray="4 4" fill="none" />
+    
+    <!-- Code Bracket Symbol -->
+    <text x="100" y="115" font-family="'Fira Code', monospace" font-size="52" font-weight="900" fill="#ff2a85" text-anchor="middle">&lt;/&gt;</text>
+    
+    <!-- Floating Tech Sparkles -->
+    <polygon points="40,40 44,48 52,52 44,56 40,64 36,56 28,52 36,48" fill="#4cc9f0" />
+    <polygon points="160,150 163,156 170,159 163,162 160,168 157,162 150,159 157,156" fill="#fee440" />
+  </g>
+</svg>

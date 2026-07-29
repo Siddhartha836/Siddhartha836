@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="90" viewBox="0 0 800 90" fill="none">
+  <defs>
+    <linearGradient id="badgeBg" x1="0" y1="0" x2="0" y2="90">
+      <stop offset="0%" stop-color="#140b2a" />
+      <stop offset="100%" stop-color="#0a0518" />
+    </linearGradient>
+
+    <!-- Rank Colors -->
+    <linearGradient id="sssGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f72585" />
+      <stop offset="100%" stop-color="#7209b7" />
+    </linearGradient>
+
+    <linearGradient id="sGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffb703" />
+      <stop offset="100%" stop-color="#fb8500" />
+    </linearGradient>
+
+    <linearGradient id="aGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4cc9f0" />
+      <stop offset="100%" stop-color="#4361ee" />
+    </linearGradient>
+
+    <linearGradient id="bGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2ec4b6" />
+      <stop offset="100%" stop-color="#10b981" />
+    </linearGradient>
+  </defs>
+
+  <!-- Container -->
+  <rect x="0" y="0" width="800" height="90" rx="12" fill="url(#badgeBg)" stroke="#261947" stroke-width="1.5" />
+
+  <!-- Badge 1: Globe Trotter (SSS) -->
+  <g transform="translate(15, 12)">
+    <rect x="0" y="0" width="118" height="66" rx="10" fill="#1b0f38" stroke="url(#sssGrad)" stroke-width="1.2" />
+    <!-- Icon -->
+    <circle cx="20" cy="22" r="10" fill="#2d124d" />
+    <text x="20" y="26" font-family="sans-serif" font-size="12" text-anchor="middle">🔮</text>
+    <!-- Rank Pill -->
+    <rect x="75" y="10" width="34" height="18" rx="9" fill="url(#sssGrad)" />
+    <text x="92" y="23" font-family="'Segoe UI', sans-serif" font-weight="900" font-size="10" fill="#ffffff" text-anchor="middle">SSS</text>
+    <!-- Title -->
+    <text x="59" y="46" font-family="'Segoe UI', sans-serif" font-weight="700" font-size="11" fill="#ffffff" text-anchor="middle">Globe Trotter</text>
+    <text x="59" y="58" font-family="'Segoe UI', sans-serif" font-size="9" fill="#a0a0c0" text-anchor="middle">Commits 250+</text>
+  </g>
+
+  <!-- Badge 2: Dominator (S) -->
+  <g transform="translate(145, 12)">
+    <rect x="0" y="0" width="118" height="66" rx="10" fill="#1b0f38" stroke="url(#sGrad)" stroke-width="1.2" />
+    <circle cx="20" cy="22" r="10" fill="#3a2500" />
+    <text x="20" y="26" font-family="sans-serif" font-size="12" text-anchor="middle">⚡</text>
+    <rect x="80" y="10" width="28" height="18" rx="9" fill="url(#sGrad)" />
+    <text x="94" y="23" font-family="'Segoe UI', sans-serif" font-weight="900" font-size="11" fill="#000000" text-anchor="middle">S</text>
+    <text x="59" y="46" font-family="'Segoe UI', sans-serif" font-weight="700" font-size="11" fill="#ffffff" text-anchor="middle">Dominator</text>
+    <text x="59" y="58" font-family="'Segoe UI', sans-serif" font-size="9" fill="#a0a0c0" text-anchor="middle">Streak 30d+</text>
+  </g>
+
+  <!-- Badge 3: Stargazer (A) -->
+  <g transform="translate(275, 12)">
+    <rect x="0" y="0" width="118" height="66" rx="10" fill="#1b0f38" stroke="url(#aGrad)" stroke-width="1.2" />
+    <circle cx="20" cy="22" r="10" fill="#0f2b45" />
+    <text x="20" y="26" font-family="sans-serif" font-size="12" text-anchor="middle">🌟</text>
+    <rect x="80" y="10" width="28" height="18" rx="9" fill="url(#aGrad)" />
+    <text x="94" y="23" font-family="'Segoe UI', sans-serif" font-weight="900" font-size="11" fill="#ffffff" text-anchor="middle">A</text>
+    <text x="59" y="46" font-family="'Segoe UI', sans-serif" font-weight="700" font-size="11" fill="#ffffff" text-anchor="middle">Stargazer</text>
+    <text x="59" y="58" font-family="'Segoe UI', sans-serif" font-size="9" fill="#a0a0c0" text-anchor="middle">Stars 50+</text>
+  </g>
+
+  <!-- Badge 4: Rising Star (A) -->
+  <g transform="translate(405, 12)">
+    <rect x="0" y="0" width="118" height="66" rx="10" fill="#1b0f38" stroke="url(#sssGrad)" stroke-width="1.2" />
+    <circle cx="20" cy="22" r="10" fill="#380d2d" />
+    <text x="20" y="26" font-family="sans-serif" font-size="12" text-anchor="middle">💖</text>
+    <rect x="80" y="10" width="28" height="18" rx="9" fill="url(#sssGrad)" />
+    <text x="94" y="23" font-family="'Segoe UI', sans-serif" font-weight="900" font-size="11" fill="#ffffff" text-anchor="middle">A</text>
+    <text x="59" y="46" font-family="'Segoe UI', sans-serif" font-weight="700" font-size="11" fill="#ffffff" text-anchor="middle">Rising Star</text>
+    <text x="59" y="58" font-family="'Segoe UI', sans-serif" font-size="9" fill="#a0a0c0" text-anchor="middle">Followers 50+</text>
+  </g>
+
+  <!-- Badge 5: Good Samaritan (A) -->
+  <g transform="translate(535, 12)">
+    <rect x="0" y="0" width="118" height="66" rx="10" fill="#1b0f38" stroke="url(#aGrad)" stroke-width="1.2" />
+    <circle cx="20" cy="22" r="10" fill="#0f2b45" />
+    <text x="20" y="26" font-family="sans-serif" font-size="12" text-anchor="middle">🤝</text>
+    <rect x="80" y="10" width="28" height="18" rx="9" fill="url(#aGrad)" />
+    <text x="94" y="23" font-family="'Segoe UI', sans-serif" font-weight="900" font-size="11" fill="#ffffff" text-anchor="middle">A</text>
+    <text x="59" y="46" font-family="'Segoe UI', sans-serif" font-weight="700" font-size="11" fill="#ffffff" text-anchor="middle">Good Samaritan</text>
+    <text x="59" y="58" font-family="'Segoe UI', sans-serif" font-size="9" fill="#a0a0c0" text-anchor="middle">PRs Merged 20+</text>
+  </g>
+
+  <!-- Badge 6: Greeter (B) -->
+  <g transform="translate(665, 12)">
+    <rect x="0" y="0" width="118" height="66" rx="10" fill="#1b0f38" stroke="url(#bGrad)" stroke-width="1.2" />
+    <circle cx="20" cy="22" r="10" fill="#0c3527" />
+    <text x="20" y="26" font-family="sans-serif" font-size="12" text-anchor="middle">🎲</text>
+    <rect x="80" y="10" width="28" height="18" rx="9" fill="url(#bGrad)" />
+    <text x="94" y="23" font-family="'Segoe UI', sans-serif" font-weight="900" font-size="11" fill="#ffffff" text-anchor="middle">B</text>
+    <text x="59" y="46" font-family="'Segoe UI', sans-serif" font-weight="700" font-size="11" fill="#ffffff" text-anchor="middle">Greeter</text>
+    <text x="59" y="58" font-family="'Segoe UI', sans-serif" font-size="9" fill="#a0a0c0" text-anchor="middle">Issues 10+</text>
+  </g>
+</svg>

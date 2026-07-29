@@ -1,12 +1,9 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0,2,3,5,6&height=220&section=header&text=Hi%20there,%20I'm%20Siddhartha%20Panigrahi%20👋&fontSize=36&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Web%20Developer%20%7C%20MERN%20Stack%20Specialist%20%7C%20CSE%20Undergrad&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <!-- Header MacOS Terminal Graphic -->
+  <img src="assets/header-card.svg" width="100%" alt="Siddhartha Header Banner" />
 
-  <!-- Animated Typing SVG -->
-  <a href="https://github.com/Siddhartha836">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F72585&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Full-Stack+Web+Developer;MERN+Stack+Specialist;Problem+Solver+%26+Open-Source+Contributor;B.Tech+CSE+%40+Lovely+Professional+University" alt="Typing SVG" />
-  </a>
+  <br/><br/>
 
   <!-- Profile Quick Badges -->
   <p>
@@ -19,68 +16,87 @@
 
 </div>
 
----
+<br/>
 
-### 💻 `siddhartha@developer:~` cat about-me.md
-
-```bash
-> Initializing Siddhartha's Profile...
-> Status: 🚀 Building scalable web applications & mastering modern full-stack architectures.
-```
-
+<!-- Two-Column Showcase Section: Lanyard Badge (Left) + Featured Projects (Right) -->
 <table>
   <tr>
-    <td width="60%" valign="top">
-      <h3>⚡ About Me</h3>
-      <ul>
-        <li>🎓 <b>Education:</b> B.Tech Computer Science & Engineering at <b>Lovely Professional University (LPU)</b>.</li>
-        <li>💻 <b>Focus:</b> Full-Stack Development with <b>MERN Stack</b> (MongoDB, Express, React, Node.js).</li>
-        <li>🌱 <b>Currently Learning:</b> Next.js, Cloud Architectures, System Design & Performance Optimization.</li>
-        <li>🤝 <b>Open for Collaboration:</b> Innovative web apps, REST APIs, or real-world tech solutions.</li>
-        <li>💬 <b>Ask Me About:</b> JavaScript, React, Node.js, Express, Python, Data Structures & Web Design.</li>
-        <li>🎯 <b>Goal:</b> Crafting sleek, high-performance web applications that deliver exceptional UI/UX.</li>
-      </ul>
+    <td width="38%" align="center" valign="top">
+      <!-- Lanyard ID Card Asset -->
+      <img src="assets/lanyard-card.svg" width="100%" alt="Developer Lanyard ID Card" />
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUGGAC3P4PPPPmgq/giphy.gif" width="100%" alt="Coding Gif" style="border-radius:12px;" />
+    <td width="62%" valign="top">
+      <h3>🌸 My Featured Creations</h3>
+      <p><i>Handcrafted web applications &amp; technical software projects:</i></p>
+      <table>
+        <thead>
+          <tr>
+            <th>📌 Project</th>
+            <th>🛠️ Tech Stack</th>
+            <th>⭐ Category</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><a href="https://github.com/Siddhartha836/Blogging-with-MERN"><b>Blogging-with-MERN</b></a><br/><sub>Full-stack blogging web app with user auth &amp; reactions</sub></td>
+            <td><code>MongoDB</code> <code>Express</code> <code>React</code> <code>Node</code></td>
+            <td>⭐ <code>Full-Stack</code></td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/Siddhartha836/Excel-Analytics-Platform"><b>Excel-Analytics-Platform</b></a><br/><sub>Transforms raw Excel datasets into interactive visual charts</sub></td>
+            <td><code>JavaScript</code> <code>HTML5</code> <code>Chart.js</code></td>
+            <td>📈 <code>Analytics</code></td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/Siddhartha836/Ai-Pest-Identification-Management"><b>AI-Pest-Identification</b></a><br/><sub>AI agricultural pest detection &amp; plant protection solution</sub></td>
+            <td><code>Python</code> <code>AI/ML</code> <code>HTML/CSS</code></td>
+            <td>🌾 <code>AI Tech</code></td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/Siddhartha836/Foodie_Mart"><b>Foodie_Mart</b></a><br/><sub>Online food ordering &amp; restaurant delivery frontend app</sub></td>
+            <td><code>HTML5</code> <code>CSS3</code> <code>JavaScript</code></td>
+            <td>🍔 <code>E-Commerce</code></td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/Siddhartha836/doctor-app"><b>doctor-app</b></a><br/><sub>Healthcare booking &amp; doctor appointment platform</sub></td>
+            <td><code>JavaScript</code> <code>Node.js</code> <code>Express</code></td>
+            <td>🩺 <code>HealthTech</code></td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/Siddhartha836/FileSystem-Recovery-Optimization"><b>FileSystem-Recovery</b></a><br/><sub>OS-level file backup &amp; automated data recovery engine</sub></td>
+            <td><code>Python</code> <code>OS Algorithms</code></td>
+            <td>💾 <code>OS System</code></td>
+          </tr>
+        </tbody>
+      </table>
+      <p align="right"><i>"Code is my craft, logic is my superpower." ⚡</i></p>
     </td>
   </tr>
 </table>
 
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Repository |
-| :--- | :--- | :--- | :---: |
-| 📝 **Blogging with MERN** | Full-featured blogging platform with authentication, posts, comments & interactive reactions | `MongoDB` `Express` `React` `Node.js` | [🔗 View Repo](https://github.com/Siddhartha836/Blogging-with-MERN) |
-| 📊 **Excel Analytics Platform** | Interactive data analytics web app transforming raw Excel files into dynamic visual charts | `JavaScript` `HTML5` `CSS3` `Chart.js` | [🔗 View Repo](https://github.com/Siddhartha836/Excel-Analytics-Platform) |
-| 🌾 **AI Pest Management** | Intelligent agricultural pest identification & crop protection management system | `Python` `AI/ML` `HTML` `CSS` | [🔗 View Repo](https://github.com/Siddhartha836/Ai-Pest-Identification-Management) |
-| 🛒 **Foodie Mart** | Sleek online food ordering & restaurant web application with interactive UI | `JavaScript` `HTML5` `CSS3` | [🔗 View Repo](https://github.com/Siddhartha836/Foodie_Mart) |
-| 🩺 **Doctor App** | Modern healthcare booking & doctor appointment management application | `JavaScript` `Node.js` `Express` | [🔗 View Repo](https://github.com/Siddhartha836/doctor-app) |
-| 💾 **FileSystem Recovery** | Python system utility for automated data recovery and file backup optimization | `Python` `OS Algorithms` | [🔗 View Repo](https://github.com/Siddhartha836/FileSystem-Recovery-Optimization) |
+<br/>
 
 ---
 
-### 🛠️ Tech Stack & Digital Arsenal
+### 🛠️ Tech Stack & Digital Toolkit
 
 <div align="center">
 
-  #### 🌐 Languages & Frontend
+  #### 🌐 Languages & Frontend Technologies
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,tailwind,bootstrap,jquery,vite&perline=12" alt="Frontend Stack" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,tailwind,bootstrap,jquery,vite&perline=12" alt="Frontend Arsenal" />
     </a>
   </p>
 
-  #### ⚙️ Backend, Databases & Cloud
+  #### ⚙️ Backend, Databases & Cloud Infrastructure
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,py,java,cpp,c,mongodb,mysql,postgres,sqlite,firebase,azure&perline=12" alt="Backend Stack" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,py,java,cpp,c,mongodb,mysql,postgres,sqlite,firebase,azure&perline=12" alt="Backend Arsenal" />
     </a>
   </p>
 
-  #### 🔧 Tools & DevOps
+  #### 🔧 Developer Tools & Productivity
   <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma,powershell&perline=8" alt="Tools" />
@@ -91,62 +107,62 @@
 
 ---
 
-### 📈 GitHub Contribution Curve & Analytics
+### 📈 Contribution Graph & GitHub Analytics
 
 <div align="center">
 
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddhartha836&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+  <!-- Glowing Contribution Activity Graph -->
+  <h4>💖 Contribution Graph</h4>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddhartha836&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph" />
 
   <br/><br/>
 
-  <!-- Stats & Top Languages Side-by-Side -->
-  <table border="0">
+  <!-- Stats & Language Cards (Tested 200 OK Endpoints) -->
+  <table border="0" width="100%">
     <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Siddhartha836&show_icons=true&theme=tokyonight&rank_icon=percentile&hide_border=true" width="100%" alt="GitHub Stats" />
+      <td width="50%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siddhartha836&theme=tokyonight" width="100%" alt="GitHub Profile Summary" />
       </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhartha836&theme=tokyonight&layout=compact&hide_border=true" width="100%" alt="Top Languages" />
+      <td width="50%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Siddhartha836&theme=tokyonight" width="100%" alt="Languages Breakdown" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <!-- Streak Stats -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Siddhartha836&theme=tokyonight&hide_border=true" width="100%" alt="Streak Stats" />
+  <!-- Streak Stats (Tested 200 OK Demolab Endpoint) -->
+  <img src="https://streak-stats.demolab.com/?user=Siddhartha836&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak Stats" />
 
 </div>
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Watch the Snake Eat My Contributions
 
 <div align="center">
-  <p><i>Watch the snake eat my contribution grid! 🐍</i></p>
-  <img src="https://raw.githubusercontent.com/Siddhartha836/Siddhartha836/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/Siddhartha836/Siddhartha836/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 </div>
 
 ---
 
-### 🏆 GitHub Achievements
+### 🏆 Achievements & Badges
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Siddhartha836&theme=tokyonight&no-frame=true&no-bg=true&column=6" width="100%" alt="Trophies" />
+  <img src="assets/rank-badges.svg" width="100%" alt="Rank Achievements" />
 </div>
 
 ---
 
-### ✍️ Daily Developer Motivation
+### ✍️ Daily Developer Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Developer Quote" />
 </div>
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Let's Connect!
 
 <div align="center">
 
@@ -175,10 +191,10 @@
   <br/><br/>
 
   <!-- Profile Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=Siddhartha836&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=Siddhartha836&color=ff79c6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile View Counter" />
 
   <br/><br/>
 
-  <sub><i>Designed with ❤️ for Siddhartha Panigrahi's GitHub Profile</i></sub>
+  <sub><i>Handcrafted with ❤️ for Siddhartha Panigrahi • B.Tech CSE @ LPU</i></sub>
 
 </div>
